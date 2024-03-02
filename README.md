@@ -1,3 +1,3 @@
-# Movie-Application-
+# Movie-Application
 
-The Details of the Movie are shown at the bottom of page when we click on a movie.
+This is a Movie view application built using HTML, CSS, Javascript
